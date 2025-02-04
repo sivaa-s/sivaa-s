@@ -12,4 +12,4 @@
 ## 📫 Let's Connect
 - **GitHub:** [github.com/sivaa-s](https://github.com/sivaa-s)
 - **LinkedIn:** [Sai Chittoor](https://www.linkedin.com/in/saisivasankarancm/)
-- **Email:** [gmail](mailto:sai.sivasan@gmail.com)
+- **Email:** [sai.sivasan@gmail.com](mailto:sai.sivasan@gmail.com)
