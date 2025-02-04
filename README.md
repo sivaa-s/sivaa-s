@@ -1,4 +1,4 @@
-# Hi there! I'm Siva 👋  
+# Salut! I'm Siva 👋  
 
 🔹 **Software Developer | AI Enthusiast | Banking Domain Expert**  
 🔹 **5+ years of experience in developing scalable applications**  
