@@ -13,4 +13,4 @@
 ## 📫 Let's Connect
 - **GitHub:** [github.com/sivaa-s](https://github.com/sivaa-s)
 - **LinkedIn:** [Sai Chittoor](https://www.linkedin.com/in/saisivasankarancm/)
-- **Email:** [sai.sivasan@gmail.com](mailto:sivasankaran.lsn17@gmail.com)
+- **Email:** [sivasankaran.lsn17@gmail.com](mailto:sivasankaran.lsn17@gmail.com)
