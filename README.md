@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! I'm Siva 👋  
 
-<!--
-**sivaa-s/sivaa-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Software Developer | AI Enthusiast | Banking Domain Expert**  
+🔹 **5+ years of experience in developing scalable applications**  
+🔹 **Tech Stack:** Java, Python, Spring Boot, React, AWS, OpenShift, Kubernetes  
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- [AI Food Ingredient Detection](https://github.com/sivaa-s/ai-food-detection) 🍲
+- [Autonomous Pathfinding AI](https://github.com/sivaa-s/pathfinding-ai) 🤖
+- [AWS-Based Image Classification](https://github.com/sivaa-s/aws-image-classification) 📸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- **GitHub:** [github.com/sivaa-s](https://github.com/sivaa-s)
+- **LinkedIn:** [Sai Chittoor](https://www.linkedin.com/in/saisivasankarancm/)
+- **Email:** [gmail](mailto:sai.sivasan@gmail.com)
