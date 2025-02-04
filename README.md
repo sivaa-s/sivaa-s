@@ -8,7 +8,7 @@
 - [AI Food Ingredient Detection](https://github.com/sivaa-s/ai-food-detection) 🍲
 - [Autonomous Pathfinding AI](https://github.com/sivaa-s/pathfinding-ai) 🤖
 - [AWS-Based Image Classification](https://github.com/sivaa-s/aws-image-classification) 📸
-- [Graph Traversal](https://github.com/sivaa-s/Graph-Traversal)⿲
+- [Graph Traversal](https://github.com/sivaa-s/Graph-Traversal) ⿲
 
 ## 📫 Let's Connect
 - **GitHub:** [github.com/sivaa-s](https://github.com/sivaa-s)
